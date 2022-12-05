@@ -1,0 +1,1 @@
+Specifies the term start date of an index specification. The "Inception Index Level" is determined on the "Term Start Date".

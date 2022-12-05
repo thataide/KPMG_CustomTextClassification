@@ -1,0 +1,1 @@
+Specifies the last day that a listed derivative trading observation is valid.

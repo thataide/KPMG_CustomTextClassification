@@ -1,0 +1,1 @@
+Specifies the unit in which a quantity is expressed (for example, “mile” is used to measure a distance, “liter” is used to measure the capacity of something, and “kilogram” is used to measure a weight).

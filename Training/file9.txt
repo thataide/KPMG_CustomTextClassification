@@ -1,0 +1,1 @@
+Specifies the category of a key figure such as loan to value, debt service coverage ratio, or debt yield.

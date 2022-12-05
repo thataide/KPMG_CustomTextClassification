@@ -1,0 +1,1 @@
+Specifies the unit (like pounds ounze, piece etc.) in which the quantity of the underlying commodity is defined.

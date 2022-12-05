@@ -1,0 +1,1 @@
+Specifies the unit used to classify the volume of listed derivative in trading observation. A typical value for this attribute is Piece.

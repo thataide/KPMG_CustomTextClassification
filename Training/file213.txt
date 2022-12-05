@@ -1,0 +1,1 @@
+Type of an exemption order.

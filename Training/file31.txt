@@ -1,0 +1,1 @@
+Specifies the currency of all value amounts and cost amounts associated with a loss object.

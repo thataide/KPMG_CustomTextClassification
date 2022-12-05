@@ -1,0 +1,1 @@
+Specifies the unit in which a stake in a capital participation is expressed.

@@ -1,0 +1,1 @@
+Specifies how the commodity forward contract is to be settled. For example:

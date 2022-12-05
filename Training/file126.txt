@@ -1,0 +1,1 @@
+Specifies the name of an exchange (for example, the New York Stock Exchange (NYSE), the Nasdaq, the London Stock Exchange (LSE), and the Tokyo Stock Exchange (TSE)).

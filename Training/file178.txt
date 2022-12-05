@@ -1,0 +1,1 @@
+Specifies whether the option is cash settled or physically delivered.

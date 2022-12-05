@@ -1,0 +1,1 @@
+Specifies the start of the validity period of all versions of a plan, or a budget or a forecast.

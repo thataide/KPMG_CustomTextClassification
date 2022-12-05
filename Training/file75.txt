@@ -1,0 +1,1 @@
+Specifies the end date of a supplementary life coverage.

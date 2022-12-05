@@ -1,0 +1,1 @@
+If credit risk adjustments are captured for a financial instrument, this specifies the unit in which the quantity is measured. The typical value is “Pieces”.

@@ -1,0 +1,1 @@
+Specifies a technical field that can be used for multiple price observations (for example, if a price is available in multiple currencies).

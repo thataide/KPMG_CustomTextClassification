@@ -1,0 +1,1 @@
+Specifies the agreed amount for a contract.

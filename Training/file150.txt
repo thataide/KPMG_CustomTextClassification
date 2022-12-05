@@ -1,0 +1,1 @@
+Specifies a surrogate key that helps to identify the different fees assigned to a financial contract.

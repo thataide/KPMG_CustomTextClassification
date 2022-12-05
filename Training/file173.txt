@@ -1,0 +1,1 @@
+Specifies how due items are settled. For example, when an account at a third-party bank is maintained in the role “Account for Interest Settlement”, “Direct Debit” can be entered here if due interest is collected from the settlement account by way of direct debit.

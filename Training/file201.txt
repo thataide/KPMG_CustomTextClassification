@@ -1,0 +1,1 @@
+Specifies the status of the result group. This can be used, for example, to provide a release logic for result groups or to track if the calculations for a result group are already finished.

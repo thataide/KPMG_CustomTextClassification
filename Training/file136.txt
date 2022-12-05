@@ -1,0 +1,1 @@
+Specifies a face value or a par value. This is the value shown on the face of a security certificate or instrument, including the currency. It most commonly applies to stocks and bonds.

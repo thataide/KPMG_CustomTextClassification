@@ -1,0 +1,1 @@
+Specifies, for example, whether the settlement happens by “Delivery”, whether the collateral is “Held in Custody” by the seller, or whether there is a third party ensuring settlement (a “Tri-Party” repo trade). In the case of a tri-party repo trade, the third party is maintained in the role of “Settlement Agent”.

@@ -1,0 +1,1 @@
+Specifies a coded representation of an insurance premium discount type. Multiple customer-specific code lists are assigned. The context element is “Product ID” (“Line of Business”).

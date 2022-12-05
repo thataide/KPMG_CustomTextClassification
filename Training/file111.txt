@@ -1,0 +1,1 @@
+Specifies the lifecycle status code of a business partner, for example, Active or Inactive.

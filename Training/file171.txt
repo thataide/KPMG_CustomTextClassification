@@ -1,0 +1,1 @@
+Specifies whether the FX swap is settled on the second settlement date physically (by exchanging the specified amounts) or with cash. The cash settlement will take place in the specified settlement currency at an agreed FX rate determined on the second settlement date.

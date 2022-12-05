@@ -1,0 +1,1 @@
+Describes the accounting system or ledger a company is following. The description could include the company name, the accounting system followed, or the ledger type. Example: US branch US GAAP Secondary Ledger.

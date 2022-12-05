@@ -1,0 +1,1 @@
+Lifecycle status of a card. The lifecycle status can be used, for example, to indicate whether the card is active, has been applied for, or has been cancelled.

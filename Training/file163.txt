@@ -1,0 +1,1 @@
+Unique identification of an address entry if there is more than one address defined for an address type.

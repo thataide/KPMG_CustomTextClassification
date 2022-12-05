@@ -1,0 +1,1 @@
+Specifies how the options contract will be settled when the option is exercised or assigned. The values “Cash” and “Physical” are possible settlement methods.

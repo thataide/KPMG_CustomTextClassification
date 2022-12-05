@@ -1,0 +1,1 @@
+Specifies a coded representation of the lifecycle status of an insurance contract coverage. A customer-specific code list is assigned.

@@ -1,0 +1,1 @@
+Specifies a coded representation of the lifecycle status of a financial instrument. The lifecycle status can be used, for example, to indicate whether the instrument is active, discontinued, phased out, or has been cancelled.

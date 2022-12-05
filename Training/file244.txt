@@ -1,0 +1,1 @@
+Specifies the unit of the tick size. For example, if the tick size for aluminum is USD 0.25 per metric ton, then the tick size is 0.25, the tick size currency is USD, and the unit is metric ton.

@@ -1,0 +1,1 @@
+Classifies a case reserve item.

@@ -1,0 +1,1 @@
+Specifies how settlement will happen in the case of a credit event. In the case of a "Physical Settlement", the protection buyer needs to deliver the deliverable obligation to the protection seller against which the buyer receives the notional of the CDS contract. The reference obligation is not delivered for a “Cash Settlement”.

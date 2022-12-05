@@ -1,0 +1,1 @@
+Specifies the date on which the listed derivative contract expires. The contract cannot be traded after the expiration date.

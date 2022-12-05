@@ -1,0 +1,1 @@
+Specifies the currency of a premium splitting component.

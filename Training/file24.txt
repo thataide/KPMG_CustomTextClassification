@@ -1,0 +1,1 @@
+Specifies the currency in which the value and sensitivity analysis amount key figures are denominated.

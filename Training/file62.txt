@@ -1,0 +1,1 @@
+Shows the macroeconomic factor in text form. For example: 'German inflation rate for June 2020 compared to previous year'.

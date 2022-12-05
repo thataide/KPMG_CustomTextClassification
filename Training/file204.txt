@@ -1,0 +1,1 @@
+Specifies whether the tranche is, for example, active or inactive.

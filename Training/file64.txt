@@ -1,0 +1,1 @@
+Specifies the end date of the coverage period of a contract. The obligation to cover risk ends for a reinsurer (cessionary) on this date. The end date of the reinsurance contract is passed through for all sections and product segments that belong to the reinsurance contract.

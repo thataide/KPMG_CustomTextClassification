@@ -1,0 +1,1 @@
+Can be used to capture some information about a specific Rating Transition Matrix.

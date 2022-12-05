@@ -1,0 +1,1 @@
+Classifies the obligations related to claims that have already occurred on the closing key date, but which have not been completely settled.

@@ -1,0 +1,1 @@
+Specifies the unit in which the quantity of the securities assigned to or taken from the specified lot is measured. Typically, the unit is "Pieces".

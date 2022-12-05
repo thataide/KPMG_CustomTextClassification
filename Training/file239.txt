@@ -1,0 +1,1 @@
+Specifies the unit that is used to express a price (for example, the opening price for a metric ton of aluminum).

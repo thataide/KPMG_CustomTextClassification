@@ -1,0 +1,1 @@
+Specifies a coded representation of the category of an insurance contract coverage.

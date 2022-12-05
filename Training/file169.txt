@@ -1,0 +1,1 @@
+Specifies whether the security forward is settled by physically delivering the specified quantity or amount of underlying security or by paying or receiving the actual market price of the agreement without exchanging the security.

@@ -1,0 +1,1 @@
+Uniquely identifies a loan for a credit card. There could be multiple loans for a credit card.

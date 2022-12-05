@@ -1,0 +1,11 @@
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.csproj.AssemblyReference.cache
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.Form1.resources
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.Properties.Resources.resources
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.csproj.GenerateResource.cache
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.csproj.CoreCompileInputs.cache
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\bin\Debug\CreateTrainingFilesWindows.exe.config
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\bin\Debug\CreateTrainingFilesWindows.exe
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\bin\Debug\CreateTrainingFilesWindows.pdb
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.exe
+C:\Users\thataide\source\repos\CreateTrainingFilesWindows\CreateTrainingFilesWindows\obj\Debug\CreateTrainingFilesWindows.pdb

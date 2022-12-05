@@ -1,0 +1,1 @@
+Specifies the status according to the status category and status type.

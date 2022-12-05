@@ -1,0 +1,1 @@
+Unique identifer of the telephone number if more than one telephone number has been entered for each phone number type.

@@ -1,0 +1,1 @@
+Specifies how the warrant is settled on the expiration date. Typically the warrant is either settled by physical delivery of the underlying or by cash payments.

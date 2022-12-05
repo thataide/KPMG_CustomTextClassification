@@ -1,0 +1,1 @@
+Specifies the date until which a swaption can be exercised (American-style swaption) or the date on which a swaption would be exercised (European-style swaption) or sets a series of defined exercise dates (Bermudan-style swaption).

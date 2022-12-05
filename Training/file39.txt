@@ -1,0 +1,1 @@
+Specifies the currency in which the liquidity risk amount key figures are denominated.

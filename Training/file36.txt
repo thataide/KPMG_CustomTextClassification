@@ -1,0 +1,1 @@
+Specifies the contract currency of a financial contract.

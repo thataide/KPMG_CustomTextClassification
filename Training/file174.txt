@@ -1,0 +1,1 @@
+Specifies how the futures contract will be settled when the contract expires. The values “Cash” and “Physical” are possible settlement methods.

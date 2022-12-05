@@ -1,0 +1,1 @@
+Categorizes a settlement on a contract based on the part of the contract that the settlement is made for. For example, settlement on swap leg.

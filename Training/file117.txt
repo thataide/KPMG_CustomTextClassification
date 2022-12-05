@@ -1,0 +1,1 @@
+Unique identifier of the lot of financial instrument positions for which the cash flow stream is generated.

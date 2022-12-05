@@ -1,0 +1,1 @@
+Specifies the type of unit used to provide a quantity number (see the other field in the same entity).

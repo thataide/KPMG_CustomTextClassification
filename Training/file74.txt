@@ -1,0 +1,1 @@
+Specifies the end date of a section of a reinsurance contract. A section end date must not start before or after the term of a reinsurance contract.

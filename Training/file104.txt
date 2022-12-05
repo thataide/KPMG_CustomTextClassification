@@ -1,0 +1,1 @@
+Specifies a coded representation of the lifecycle status of a trade (for example, “Active”, “Cleared”, or “Settled”).

@@ -1,0 +1,1 @@
+Categorizes a contribution margin according to its position in the planning cycle: planned, forecast, budgeted, or actual.

@@ -1,0 +1,1 @@
+Several currencies are allowed for each product segment.

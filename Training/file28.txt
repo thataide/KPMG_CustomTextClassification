@@ -1,0 +1,1 @@
+Specifies the currency related to the amount field. This is only relevant if the macroeconomic factor represents a currency-related amount.

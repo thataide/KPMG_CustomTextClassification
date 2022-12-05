@@ -1,0 +1,1 @@
+Specifies a surrogate key that helps to identify an entry in the list. The list cannot exist without a leading object.  A list of interests is always assigned to a financial contract.

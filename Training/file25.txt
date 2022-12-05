@@ -1,0 +1,1 @@
+Specifies the currency of an insurance technical account balance value type.

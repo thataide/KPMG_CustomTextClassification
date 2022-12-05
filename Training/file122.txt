@@ -1,0 +1,1 @@
+Specifies the lot to which a credit risk adjustment belongs.

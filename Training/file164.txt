@@ -1,0 +1,1 @@
+Specifies the sequence number as defined in the mortgage register. This might be a sequence number across the whole register or for records regarding an object.

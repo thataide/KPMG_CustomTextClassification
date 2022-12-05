@@ -1,0 +1,1 @@
+An intraday price observation is identified uniquely by a timestamp and the sequence number.

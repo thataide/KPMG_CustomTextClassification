@@ -1,0 +1,1 @@
+Specifies which value of a specific trade status category is assigned to the trade.

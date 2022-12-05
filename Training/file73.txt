@@ -1,0 +1,1 @@
+Specifies the end date of the term of an index specification.

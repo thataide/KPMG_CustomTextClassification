@@ -1,0 +1,1 @@
+Specifies a technical key to help store multiple lease rates applicable to a lease agreement.

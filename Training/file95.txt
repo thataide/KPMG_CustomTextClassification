@@ -1,0 +1,1 @@
+Identifies an insurance technical account movement.

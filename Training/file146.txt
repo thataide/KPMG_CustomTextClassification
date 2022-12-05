@@ -1,0 +1,1 @@
+If securities are quoted by percentage, the nominal amount specifies the value of the securities assigned to or taken from the relevant lot.

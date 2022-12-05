@@ -1,0 +1,1 @@
+Specifies the unit in which a quantity is expressed (for example for financial instruments the typical value for this attribute is Pieces).

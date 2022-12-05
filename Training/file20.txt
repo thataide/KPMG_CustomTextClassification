@@ -1,0 +1,1 @@
+Specifies the currency of the key figures for the risk amount of the trading book.

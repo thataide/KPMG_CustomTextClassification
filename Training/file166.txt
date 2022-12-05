@@ -1,0 +1,1 @@
+Specifies a key that identifies the sequence according to which financial assets deposited by a business partner at the company are made available as collateral.

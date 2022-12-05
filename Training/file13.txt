@@ -1,0 +1,1 @@
+Specifies the category of an insurance coverage option.

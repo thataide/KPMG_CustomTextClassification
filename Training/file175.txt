@@ -1,0 +1,1 @@
+Specifies whether the swaption is cash settled or physically delivered.

@@ -1,0 +1,1 @@
+Identifies a lot for which interest an fee is calculated.

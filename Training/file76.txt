@@ -1,0 +1,1 @@
+Specifies the date after which it is not possible to exercise a right defined in the contract or instrument.

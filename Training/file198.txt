@@ -1,0 +1,1 @@
+Specifies the status of a financial instrument according to the status type.

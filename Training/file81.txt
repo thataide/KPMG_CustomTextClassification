@@ -1,0 +1,1 @@
+Specifies the date until which an option can be exercised (American option) or the date on which an option would be exercised (European option).

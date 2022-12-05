@@ -1,0 +1,1 @@
+Categorizes a fair value based on the part of the contract to which the fair value belongs. For example: swap leg fair value.

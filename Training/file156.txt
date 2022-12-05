@@ -1,0 +1,1 @@
+Specifies a key that identifies the sequence of the assignment of a right to a creditor as a collateral.

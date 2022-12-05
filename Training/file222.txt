@@ -1,0 +1,1 @@
+Specifies the type of couple (for example, married, registered partnership).

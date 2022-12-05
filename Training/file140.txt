@@ -1,0 +1,1 @@
+Specifies the amount in the contract currency.

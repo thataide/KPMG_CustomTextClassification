@@ -1,0 +1,1 @@
+Specifies a coded representation of the currency of amounts of a section.

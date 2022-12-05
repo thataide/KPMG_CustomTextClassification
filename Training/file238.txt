@@ -1,0 +1,1 @@
+Specifies the unit of measure for which the price of the specified commodity is to be published.

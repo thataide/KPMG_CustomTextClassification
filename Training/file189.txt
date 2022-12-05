@@ -1,0 +1,1 @@
+Specifies the start date of the coverage period of a reinsurance contract. A reinsurer (cessionary) is in obligation to cover the risk as of the start date. The start date of the reinsurance contract is copied to all the sections and coverages that belong to the reinsurance contract.

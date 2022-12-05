@@ -1,0 +1,1 @@
+Specifies a surrogate key that differentiates between option rights of a contract.

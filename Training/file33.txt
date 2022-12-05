@@ -1,0 +1,1 @@
+Specifies the currency of the cash flow for which the fair value is calculated. For multicurrency products such as cross-currency or dual currency swaps, there are separate cash flows in different currencies. A distinct fair value is calculated in the corresponding currency for each cash flow.

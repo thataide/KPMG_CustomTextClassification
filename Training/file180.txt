@@ -1,0 +1,1 @@
+Specifies whether the FX forward is settled by physically exchanging the specified currency amounts or by paying or receiving the actual market price of the agreement without exchanging the originally agreed amounts.

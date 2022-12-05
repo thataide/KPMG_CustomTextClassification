@@ -1,0 +1,1 @@
+Specifies the base amount for the delivered accrual amount. The base or nominal amount is used to scale to a current position.

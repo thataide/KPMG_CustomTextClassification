@@ -1,0 +1,1 @@
+Specifies the date on which the future contract ends.

@@ -1,0 +1,1 @@
+Specifies the sequence number of a standard fee.
